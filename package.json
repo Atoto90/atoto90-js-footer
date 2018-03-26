@@ -1,0 +1,25 @@
+{
+  "name": "atoto90-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applicatiopns with updated year and name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atoto90/atoto90-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Oscar A Infante <atoto90@yahoo.com> (https://www.npmjs.com/~atoto90)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Atoto90/atoto90-js-footer/issues"
+  },
+  "homepage": "https://github.com/Atoto90/atoto90-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.21.0"
+  }
+}
